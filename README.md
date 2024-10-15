@@ -1,5 +1,11 @@
 # Desafio XYZ - Hackathon 🚀
 
+
+![Contador de Estrelas](https://img.shields.io/github/stars/hitice/desafio-xyz?style=social)
+![Contador de Forks](https://img.shields.io/github/forks/hitice/desafio-xyz?style=social)
+![Contador de Contribuições](https://img.shields.io/badge/contribuições-0-brightgreen)
+
+
 Bem-vindo ao **Desafio XYZ**, uma hackathon promovida por **Pedro Fernandes (Pavanelli)** com o objetivo de criar soluções inovadoras para o **Kids Wallet App** – uma aplicação educacional de criptomoedas voltada para crianças, disponível para **iOS** e **Android**.
 
 ## O que é o Kids Wallet App? 👶💼
