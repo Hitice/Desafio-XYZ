@@ -1,114 +1,115 @@
-# Desafio XYZ - Hackathon 🚀
+# **XYZ Challenge - Hackathon 🚀**
 
+![Star Counter](https://img.shields.io/github/stars/hitice/desafio-xyz?style=social)  
+![Fork Counter](https://img.shields.io/github/forks/hitice/desafio-xyz?style=social)  
+![Contributions Counter](https://img.shields.io/badge/contributions-0-brightgreen)  
 
-![Contador de Estrelas](https://img.shields.io/github/stars/hitice/desafio-xyz?style=social)
-![Contador de Forks](https://img.shields.io/github/forks/hitice/desafio-xyz?style=social)
-![Contador de Contribuições](https://img.shields.io/badge/contribuições-0-brightgreen)
-
-
-Bem-vindo ao **Desafio XYZ**, uma hackathon promovida por **Pedro Fernandes (Pavanelli)** com o objetivo de criar soluções inovadoras para o **Kids Wallet App** – uma aplicação educacional de criptomoedas voltada para crianças, disponível para **iOS** e **Android**.
-
-## O que é o Kids Wallet App? 👶💼
-O **Kids Wallet App** é uma plataforma que permite aos pais criarem carteiras de Bitcoin seguras para seus filhos, com foco em **educação financeira**. Através de uma interface amigável e de conteúdo interativo, as crianças aprendem sobre o valor do dinheiro e investimentos de forma segura e didática.
-
-### Principais Funcionalidades do App:
-1. **Criação de Carteira Bitcoin** com reconhecimento facial e data de nascimento da criança.
-2. **Depósitos Seguros**, controlados pelos pais até a criança completar 18 anos.
-3. **Conteúdos Educativos** para ensinar as crianças sobre finanças digitais e criptomoedas.
-4. **Interface Amigável** adaptada para crianças e pais, com design responsivo para iOS e Android.
+Welcome to the **XYZ Challenge**, a hackathon hosted by **Pedro Fernandes (Pavanelli)** with the mission of creating innovative solutions for the **Kids Wallet App** – an educational cryptocurrency application designed for children, available on **iOS** and **Android**.
 
 ---
 
-## Desafios Propostos 💡
+## What is the Kids Wallet App? 👶💼
 
-Os participantes do **Desafio XYZ** terão a oportunidade de contribuir em várias áreas do desenvolvimento do **Kids Wallet App**. Escolha entre as seguintes áreas:
+The **Kids Wallet App** is a platform that allows parents to create secure Bitcoin wallets for their children, focusing on **financial education**. With an engaging interface and interactive content, children learn about the value of money and investments in a safe and educational way.  
 
-1. **Desenvolvimento de Interface Mobile (Flutter)**:
-   - Criar e otimizar a interface para iOS e Android usando **Flutter**.
-   - Garantir uma experiência de usuário intuitiva e divertida para crianças e pais.
-   
-2. **Integração de APIs de Criptomoedas**:
-   - Implementar APIs que conectem a carteira a serviços de Bitcoin e outras criptomoedas.
-   - Estender o suporte a múltiplas criptomoedas, além do Bitcoin.
-
-3. **Funcionalidades Educacionais Interativas**:
-   - Criar módulos educacionais interativos que ensinem conceitos básicos de finanças e criptomoedas.
-   - Gamificar o aprendizado para motivar as crianças a aprenderem mais sobre investimentos.
+### Key Features of the App:
+1. **Bitcoin Wallet Creation** with facial recognition and the child's date of birth.  
+2. **Secure Deposits**, controlled by parents until the child turns 18.  
+3. **Educational Content** to teach kids about digital finances and cryptocurrencies.  
+4. **Kid-Friendly Interface**, with a responsive design for iOS and Android platforms.  
 
 ---
 
-## Como Participar 📥
+## Proposed Challenges 💡
 
-1. **Faça um fork deste repositório.**
-2. **Crie uma branch com o nome do seu time**:
+Participants in the **XYZ Challenge** will have the opportunity to contribute to various aspects of the **Kids Wallet App** development. Choose from the following areas:  
+
+1. **Mobile Interface Development (Flutter)**:
+   - Create and optimize the app interface for iOS and Android using **Flutter**.  
+   - Ensure an intuitive and engaging user experience for both kids and parents.  
+
+2. **Cryptocurrency API Integration**:
+   - Implement APIs to connect the wallet with Bitcoin and other cryptocurrency services.  
+   - Expand support to include multiple cryptocurrencies beyond Bitcoin.  
+
+3. **Interactive Educational Features**:
+   - Develop interactive educational modules teaching basic financial and cryptocurrency concepts.  
+   - Gamify the learning process to keep children motivated and engaged.  
+
+---
+
+## How to Participate 📥  
+
+1. **Fork this repository.**  
+2. **Create a branch with your team name**:  
    ```bash
-   git checkout -b nome-do-time
-   ```
-3. **Desenvolva sua solução** baseado em um dos desafios propostos.
-4. **Submeta um Pull Request** até **31 de dezembro**.
+   git checkout -b team-name
+   ```  
+3. **Develop your solution** based on one of the proposed challenges.  
+4. **Submit a Pull Request** by **December 31, 2024**.  
 
 ---
 
-## Cronograma 📅
+## Timeline 📅  
 
-- **Início**: 1º de novembro de 2024
-- **Prazo final para submissão**: 31 de dezembro de 2024
-- **Anúncio dos vencedores**: 10 de janeiro de 2025
-
----
-
-## Critérios de Avaliação 🏆
-
-Os projetos serão avaliados com base nos seguintes critérios:
-
-1. **Criatividade**: Inovações propostas e a forma como os problemas foram resolvidos.
-2. **Qualidade do Código**: Código bem organizado, legível, e com boa performance.
-3. **Funcionalidade**: A solução deve funcionar corretamente e agregar valor ao projeto base.
-4. **Design e Usabilidade**: Interfaces intuitivas e agradáveis, especialmente voltadas para crianças.
+- **Start Date**: November 1, 2024  
+- **Submission Deadline**: December 31, 2024  
+- **Winner Announcement**: January 10, 2025  
 
 ---
 
-## Regras 📜
+## Evaluation Criteria 🏆  
 
-- **Times de até 4 participantes**.
-- **Linguagens permitidas**: **Dart** (Flutter), **Kotlin**, **Swift**.
-- **Frameworks**: Flutter (preferencial), React Native, ou desenvolvimento nativo para Android/iOS.
-- O código precisa ser **open-source** e disponível no GitHub.
+Projects will be judged based on the following criteria:  
 
----
-
-## Prêmios 🏅
-
-1. **1º Lugar**: $500 e reconhecimento no repositório principal do **Kids Wallet App**.
-2. **2º Lugar**: $300 e certificado de participação.
-3. **3º Lugar**: $200 e menção honrosa.
+1. **Creativity**: Innovative approaches and problem-solving.  
+2. **Code Quality**: Clean, organized, and performant code.  
+3. **Functionality**: The solution must work correctly and add value to the base project.  
+4. **Design and Usability**: Intuitive and child-friendly interfaces.  
 
 ---
 
-## Recursos Úteis 🔧
+## Rules 📜  
 
-- [Documentação Flutter](https://flutter.dev/docs)
-- [API de Bitcoin](https://www.blockchain.com/api)
-- [Guia de Desenvolvimento iOS](https://developer.apple.com/documentation/)
-- [Guia de Desenvolvimento Android](https://developer.android.com/docs)
-
----
-
-## FAQ ❓
-
-1. **Quem pode participar?**
-   Qualquer pessoa ou time interessado em contribuir para o projeto pode participar. Não há restrição de nível de experiência.
-
-2. **Posso participar sozinho?**
-   Sim, é possível participar tanto sozinho quanto em times de até 4 pessoas.
-
-3. **O que acontece se eu não conseguir terminar o projeto a tempo?**
-   Não se preocupe! O importante é participar e qualquer contribuição é valiosa. Mesmo se não terminar, sua participação ainda será considerada.
+- **Teams of up to 4 participants**.  
+- **Allowed languages**: **Dart** (Flutter), **Kotlin**, **Swift**.  
+- **Frameworks**: Preferably Flutter, React Native, or native Android/iOS development.  
+- The code must be **open-source** and available on GitHub.  
 
 ---
 
-**Vamos transformar a educação financeira e o futuro das crianças com inovação! Participe do Desafio XYZ e faça parte dessa revolução tecnológica.**
+## Prizes 🏅  
+
+1. **1st Place**: $50 and recognition in the main **Kids Wallet App** repository.  
+2. **2nd Place**: $30 and a participation certificate.  
+3. **3rd Place**: $20 and an honorable mention.  
+
+---
+
+## Useful Resources 🔧  
+
+- [Flutter Documentation](https://flutter.dev/docs)  
+- [Bitcoin API](https://www.blockchain.com/api)  
+- [iOS Development Guide](https://developer.apple.com/documentation/)  
+- [Android Development Guide](https://developer.android.com/docs)  
+
+---
+
+## FAQ ❓  
+
+1. **Who can participate?**  
+   Anyone or any team interested in contributing to the project. There are no experience level restrictions.  
+
+2. **Can I participate alone?**  
+   Yes, you can participate solo or as part of a team of up to 4 people.  
+
+3. **What if I can’t complete the project on time?**  
+   No problem! The important thing is to participate. Any contribution is valuable, and partial work will still be appreciated.  
+
+---
+
+**Let’s revolutionize financial education for kids with innovation! Join the XYZ Challenge and be part of this technological breakthrough.**  
 
 **Pedro Fernandes (Pavanelli)**  
 **GitHub: [hitice](https://github.com/hitice)**  
-**Email: adm.nuvem@protonmail.com**
+**Email: adm.nuvem@protonmail.com**  
