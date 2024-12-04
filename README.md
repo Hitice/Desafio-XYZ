@@ -3,6 +3,8 @@
 ![Star Counter](https://img.shields.io/github/stars/hitice/desafio-xyz?style=social)  
 ![Fork Counter](https://img.shields.io/github/forks/hitice/desafio-xyz?style=social)  
 ![Contributions Counter](https://img.shields.io/badge/contributions-0-brightgreen)  
+[![Suport](https://img.shields.io/badge/Apoie%20este%20projeto-Sponsor-ff69b4)](https://github.com/sponsors/hitice)
+
 
 Welcome to the **XYZ Challenge**, a hackathon hosted by **Pedro Fernandes (Pavanelli)** with the mission of creating innovative solutions for the **Kids Wallet App** – an educational cryptocurrency application designed for children, available on **iOS** and **Android**.
 
